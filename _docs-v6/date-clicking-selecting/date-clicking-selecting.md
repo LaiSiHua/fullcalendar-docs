@@ -1,7 +1,7 @@
 ---
 title: Date Clicking & Selecting
 children:
-  - selectable
+  - selectable 
   - selectMirror
   - unselectAuto
   - unselectCancel
